@@ -1,0 +1,8 @@
+{
+  "name": "Live Classroom Quiz Battle - थेट प्रश्नमंजुषा",
+  "description": "इंटरॅक्टिव्ह लाइव्ह क्विझ गेम: QR कोड स्कॅन करून विद्यार्थी सामील होतात, जलद उत्तरे देऊन गुण मिळवतात आणि थेट लीडरबोर्डवर स्पर्धा करतात.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
